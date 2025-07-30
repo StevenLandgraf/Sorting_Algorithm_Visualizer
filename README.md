@@ -172,10 +172,6 @@ Contributions are welcome! Please feel free to:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Streamlit for the amazing web app framework
@@ -185,9 +181,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/StevenLandgraf/Sorting_Algorithm_Visualizer/issues) page
-2. Create a new issue with detailed description
-3. Contact the maintainer
+1. Create a new issue with detailed description
+2. Contact the maintainer
 
 ---
 
